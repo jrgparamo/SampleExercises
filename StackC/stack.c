@@ -1,8 +1,8 @@
 /*
 * Author: KELLEY A BOOK ON C
 * File: stack.c
-* Description: A stack implementation in C
-*				teaching Abstract Data Types (ADT)
+* Description: A stack implementation in C 
+* 	teaching Abstract Data Types (ADT)
 * Student Name: Jorge Paramo
 * Student UT EID: JP33534
 * Course Name: CS 429
