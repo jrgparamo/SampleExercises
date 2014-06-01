@@ -89,7 +89,7 @@ int main(void)
 	for (int i = 0; str[i] != '\0'; ++i)
 	{
 		// Condition check stack is not full
-		if (!full(&s))
+		if (!full(&s) )
 		{
 			push(str[i], &s);
 		}
