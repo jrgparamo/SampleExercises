@@ -74,7 +74,7 @@ boolean full(const stack *stk)
 int main(void)
 {
 	// Initilized variables
-	char str[] = "Please God don't let my identity get stolen. I love you God.";
+	char str[] = "I love God.";
 	int i; 
 	stack s;
 	// Initialized stack s
